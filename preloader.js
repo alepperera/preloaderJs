@@ -18,8 +18,8 @@ const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
 svgImage.src = 'https://alepperera.github.io/preloaderJs/imagen.svg';
 svgImage.style.cssText = `
-    max-width: 30%;
-    max-height: 30%;
+    max-width: 20%;
+    max-height: 20%;
     display: none;
     position: absolute;
     top: 50%;
